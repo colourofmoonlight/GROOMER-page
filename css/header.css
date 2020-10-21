@@ -1,0 +1,5 @@
+.header__image {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 10px 10px 56px -12px rgba(41,41,41,1);
+}
