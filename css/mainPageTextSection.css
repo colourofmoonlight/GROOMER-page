@@ -1,0 +1,26 @@
+.mainPageTextSection {
+    margin: 130px 80px;
+    justify-content: center;
+}
+
+.mainPageTextSection__paragraph {
+    padding: 5px;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 1.8;
+    text-shadow: 8px 2px 19px rgba(144, 150, 150, 0.39);
+    font-family: 'Advent Pro', sans-serif;
+}
+
+.mainPageTextSection__decoration {
+    background: #F8D7D6;
+    height: 10px;
+    margin-bottom: 6px;
+}
+
+.mainPageTextSection__decoration--shorter {
+    background:  #393b3cbb;
+    height: 7px;
+    width: 80%;
+    margin: 0 auto;
+}
