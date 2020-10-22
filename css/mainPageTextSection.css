@@ -1,6 +1,7 @@
 .mainPageTextSection {
-    margin: 130px 80px;
+    margin: 130px 80px 50px;
     justify-content: center;
+    max-width: 100%;
 }
 
 .mainPageTextSection__paragraph {
@@ -22,5 +23,5 @@
     background:  #393b3cbb;
     height: 7px;
     width: 80%;
-    margin: 0 auto;
+    margin: auto;
 }

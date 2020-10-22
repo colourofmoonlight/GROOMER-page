@@ -1,0 +1,30 @@
+.mainPagePhoto {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px auto;
+    max-width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+}
+
+.mainPagePhoto__image {
+    margin: 5px 10px 40px;
+    width: 270px;
+    height: 500px;
+    border: 7px #393b3cbb;
+    border-style: ridge;
+    padding: 10px;
+}
+
+.mainPagePhoto__image--smaller {
+    width: 250px;
+    height: 300px;
+    border: 10px ridge #F8D7D6;
+    
+}
+
+.mainPagePhoto__image--shorter {
+    width: 300px;
+    height: 360px;
+}
