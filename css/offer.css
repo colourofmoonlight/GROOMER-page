@@ -1,0 +1,65 @@
+.offer {
+    margin: 80px 80px 50px;
+    justify-content: center;
+    max-width: 100%;
+}
+
+.offer__decoration {
+    background: #393b3cbb;
+    height: 10px;
+    margin-bottom: 6px;
+}
+
+.offer__decoration--shorter {
+    background: #F8D7D6;
+    height: 7px;
+    width: 80%;
+    margin: auto;
+}
+
+.offer__header {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    margin: 40px auto 30px;
+    text-align: center;
+}
+
+.offer__header--regulations {
+    font-size: 40px;
+}
+
+.offer__paragraph {
+    padding: 5px;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 1.8;
+    text-shadow: 8px 2px 19px rgba(144, 150, 150, 0.39);
+    font-family: 'Advent Pro', sans-serif;
+}
+
+.offer__regulations {
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.offer__decoration--regulations {
+    height: 3px;
+    max-width: 30%;
+    margin: -38px auto 55px;
+    background-color: #F8D7D6;
+}
+
+
+.offer__list {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    line-height: 2;
+    text-align: justify;
+    border-left: 2px solid #F8D7D6;
+    border-bottom: 2px solid #F8D7D6;
+    padding-left: 60px;
+}
+
+.offer__line {
+    margin: 10px auto;
+}
